@@ -1,0 +1,88 @@
+[
+    {
+      "action (set a)":[
+        { "word" : "cry", "img" : "./assets/action/cry.png", "ru" : "плакать", "sound" : "./assets/action/cry.mp3" },
+        { "word" : "jump", "img" : "./assets/action/jump.jpg", "ru" : "прыгать", "sound" : "./assets/action/jump.mp3" },
+        { "word" : "draw", "img" : "./assets/action/draw.jpg", "ru" : "рисовать", "sound" : "./assets/action/draw.mp3" },
+        { "word" : "eat", "img" : "./assets/action/eat.jpg", "ru" : "кушать", "sound" : "./assets/action/eat.mp3" },
+        { "word" : "dance", "img" : "./assets/action/dance.jpg", "ru" : "танцевать", "sound" : "./assets/action/dance.mp3" },
+        { "word" : "sleep", "img" : "./assets/action/sleep.jpg", "ru" : "спать", "sound" : "./assets/action/sleep.mp3" },
+        { "word" : "hug", "img" : "./assets/action/hug.jpg", "ru" : "обнимать", "sound" : "./assets/action/hug.mp3" },
+        { "word" : "play", "img" : "./assets/action/play.jpg", "ru" : "играть", "sound" : "./assets/action/play.mp3" }
+      ],
+      "action (set b)":[
+        { "word" : "catch", "img" : "./assets/action/catch.jpg", "ru" : "ловить", "sound" : "./assets/action/catch.mp3" },
+        { "word" : "read", "img" : "./assets/action/read.jpg", "ru" : "читать", "sound" : "./assets/action/read.mp3" },
+        { "word" : "open", "img" : "./assets/action/open.jpg", "ru" : "открывать", "sound" : "./assets/action/open.mp3" },
+        { "word" : "sing", "img" : "./assets/action/sing.jpg", "ru" : "петь", "sound" : "./assets/action/sing.mp3" },
+        { "word" : "care", "img" : "./assets/action/care.jpg", "ru" : "заботиться", "sound" : "./assets/action/care.mp3" },
+        { "word" : "watch", "img" : "./assets/action/watch.jpg", "ru" : "смотреть", "sound" : "./assets/action/watch.mp3" },
+        { "word" : "drop", "img" : "./assets/action/drop.jpg", "ru" : "падать", "sound" : "./assets/action/drop.mp3" },
+        { "word" : "rage", "img" : "./assets/action/rage.jpg", "ru" : "злиться", "sound" : "./assets/action/rage.mp3" }
+      ],
+      "action (set c)":[
+        { "word" : "smile", "img" : "./assets/action/smile.jpg", "ru" : "улыбаться", "sound" : "./assets/action/smile.mp3" },
+        { "word" : "wave", "img" : "./assets/action/wave.jpg", "ru" : "махать", "sound" : "./assets/action/wave.mp3" },
+        { "word" : "win", "img" : "./assets/action/win.jpg", "ru" : "выиграть", "sound" : "./assets/action/win.mp3" },
+        { "word" : "cut", "img" : "./assets/action/cut.png", "ru" : "резать", "sound" : "./assets/action/cut.mp3" },
+        { "word" : "build", "img" : "./assets/action/build.jpg", "ru" : "строить", "sound" : "./assets/action/build.mp3" },
+        { "word" : "write", "img" : "./assets/action/write.png", "ru" : "писать", "sound" : "./assets/action/write.mp3" },
+        { "word" : "think", "img" : "./assets/action/think.jpg", "ru" : "думать", "sound" : "./assets/action/think.mp3" },
+        { "word" : "show", "img" : "./assets/action/show.jpg", "ru" : "показывать", "sound" : "./assets/action/show.mp3" }
+      ],
+      "school" : [
+          { "word" : "pen", "img" : "./assets/school/pen.jpg", "ru" : "ручка", "sound" : "./assets/school/pen.mp3" },
+          { "word" : "teacher", "img" : "./assets/school/teacher.jpg", "ru" : "учитель", "sound" : "./assets/school/teacher.mp3" },
+          { "word" : "pencil", "img" : "./assets/school/pencil.jpg", "ru" : "карандаш", "sound" : "./assets/school/pencil.mp3" },
+          { "word" : "eraser", "img" : "./assets/school/eraser.jpg", "ru" : "стёрка", "sound" : "./assets/school/eraser.mp3" },
+          { "word" : "board", "img" : "./assets/school/board.jpg", "ru" : "доска", "sound" : "./assets/school/board.mp3" },
+          { "word" : "book", "img" : "./assets/school/book.jpg", "ru" : "книга", "sound" : "./assets/school/book.mp3" },
+          { "word" : "exercise book", "img" : "./assets/school/exercise_book.jpg", "ru" : "тетрадь", "sound" : "./assets/school/exercise_book.mp3" },
+          { "word" : "pencil case", "img" : "./assets/school/pencil_case.jpg", "ru" : "пенал", "sound" : "./assets/school/pencil_case.mp3" }
+      ],
+      "animal" : [
+          { "word" : "bear", "img" : "./assets/animal/bear.jpg", "ru" : "медведь", "sound" : "./assets/animal/bear.mp3" },
+          { "word" : "bird", "img" : "./assets/animal/bird.jpg", "ru" : "птица", "sound" : "./assets/animal/bird.mp3" },
+          { "word" : "cat", "img" : "./assets/animal/cat.jpg", "ru" : "кот", "sound" : "./assets/animal/cat.mp3" },
+          { "word" : "dog", "img" : "./assets/animal/dog.jpg", "ru" : "собака", "sound" : "./assets/animal/dog.mp3" },
+          { "word" : "fox", "img" : "./assets/animal/fox.jpg", "ru" : "лиса", "sound" : "./assets/animal/fox.mp3" },
+          { "word" : "horse", "img" : "./assets/animal/horse.jpg", "ru" : "лошадь", "sound" : "./assets/animal/horse.mp3" },
+          { "word" : "rabbit", "img" : "./assets/animal/rabbit.jpg", "ru" : "заяц", "sound" : "./assets/animal/rabbit.mp3" },
+          { "word" : "wolf", "img" : "./assets/animal/wolf.jpg", "ru" : "волк", "sound" : "./assets/animal/wolf.mp3" }
+      ],
+      "food" : [
+          { "word" : "cake", "img" : "./assets/food/cake.jpg", "ru" : "торт", "sound" : "./assets/food/cake.mp3" },
+          { "word" : "cookie", "img" : "./assets/food/cookie.jpg", "ru" : "печенье", "sound" : "./assets/food/cookie.mp3" },
+          { "word" : "egg", "img" : "./assets/food/egg.jpg", "ru" : "яйцо", "sound" : "./assets/food/egg.mp3" },
+          { "word" : "ice cream", "img" : "./assets/food/ice_cream.jpg", "ru" : "мороженное", "sound" : "./assets/food/ice_cream.mp3" },
+          { "word" : "nuts", "img" : "./assets/food/nuts.jpg", "ru" : "орехи", "sound" : "./assets/food/nuts.mp3" },
+          { "word" : "pancake", "img" : "./assets/food/pancake.jpg", "ru" : "блин", "sound" : "./assets/food/pancake.mp3" },
+          { "word" : "fruit", "img" : "./assets/food/fruit.jpg", "ru" : "фрукты", "sound" : "./assets/food/fruit.mp3" },
+          { "word" : "sour cream", "img" : "./assets/food/sour-cream.jpg", "ru" : "сметана", "sound" : "./assets/food/sour_cream.mp3" }
+      ],
+      "number" : [
+          { "word" : "one", "img" : "./assets/number/1.jpg", "ru" : "один", "sound" : "./assets/number/1.mp3" },
+          { "word" : "two", "img" : "./assets/number/2.jpg", "ru" : "два", "sound" : "./assets/number/2.mp3" },
+          { "word" : "three", "img" : "./assets/number/3.jpg", "ru" : "три", "sound" : "./assets/number/3.mp3" },
+          { "word" : "four", "img" : "./assets/number/4.jpg", "ru" : "четыре", "sound" : "./assets/number/4.mp3" },
+          { "word" : "five", "img" : "./assets/number/5.jpg", "ru" : "пять", "sound" : "./assets/number/5.mp3" },
+          { "word" : "six", "img" : "./assets/number/6.jpg", "ru" : "шесть", "sound" : "./assets/number/6.mp3" },
+          { "word" : "seven", "img" : "./assets/number/7.jpg", "ru" : "семь", "sound" : "./assets/number/7.mp3" },
+          { "word" : "eight", "img" : "./assets/number/8.jpg", "ru" : "восемь", "sound" : "./assets/number/8.mp3" }
+      ],
+      "size" : [
+          { "word" : "deep", "img" : "./assets/size/deep.jpg", "ru" : "глубокий", "sound" : "./assets/size/deep.mp3" },
+          { "word" : "high", "img" : "./assets/size/high.jpg", "ru" : "высокий", "sound" : "./assets/size/high.mp3" },
+          { "word" : "large", "img" : "./assets/size/large.jpg", "ru" : "большой", "sound" : "./assets/size/large.mp3" },
+          { "word" : "little", "img" : "./assets/size/little.jpg", "ru" : "маленький", "sound" : "./assets/size/little.mp3" },
+          { "word" : "long", "img" : "./assets/size/long.jpg", "ru" : "длинный", "sound" : "./assets/size/long.mp3" },
+          { "word" : "narrow", "img" : "./assets/size/narrow.jpg", "ru" : "узкий", "sound" : "./assets/size/narrow.mp3" },
+          { "word" : "tall", "img" : "./assets/size/tall.jpg", "ru" : "высокий", "sound" : "./assets/size/tall.mp3" },
+          { "word" : "thin", "img" : "./assets/size/thin.jpg", "ru" : "тонкий", "sound" : "./assets/size/thin.mp3" }
+      ]
+    }
+  ]
+  
+  
+      
+  
