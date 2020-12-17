@@ -683,7 +683,9 @@ h4 {
   line-height: 28px;
   letter-spacing: 2.7px;
 }
-
+h1{
+  font-size: 50px;
+}
 .mask {
   width: 270px;
   height: 225px;
